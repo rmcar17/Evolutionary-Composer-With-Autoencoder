@@ -4,7 +4,7 @@ This repository contains all necessary files to run the evolutionary composer.
 
 ## Setup
 
-Use the package manager [anaconda](https://anaconda.org/) to set up the environment. Install the necessary packages.
+Use the [anaconda](https://anaconda.org/) distribution of Python to set up the environment. Install the necessary packages.
 
 ```bash
 conda env create -f environment.yml 

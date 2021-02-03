@@ -1,3 +1,4 @@
+[![DOI](https://zenodo.org/badge/301640525.svg)](https://zenodo.org/badge/latestdoi/301640525)
 # Evolutionary Composer with Autoencoder
 
 This repository contains all necessary files to run the evolutionary composer.
